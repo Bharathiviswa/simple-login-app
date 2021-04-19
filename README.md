@@ -1,2 +1,0 @@
-# simple-login-app
-Hello, 
